@@ -1,0 +1,8 @@
+[files]
+extend-exclude = [
+  ".typos.toml",
+]
+
+[default.extend-words]
+# In case of false positive, add the word to the dictionary as follows
+Hashi = "Hashi"
